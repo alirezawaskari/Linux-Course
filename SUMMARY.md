@@ -2,22 +2,22 @@
 
 * [Getting started](README.md)
 
-## Index
+## Table of Contents
 
-* [Fundamentals](index/fundamentals.md)
-* [Firmware](index/firmware.md)
-* [Software](index/software.md)
-* [Hardware](index/hardware.md)
+* [Fundamentals](table-of-contents/fundamentals.md)
+* [Firmware](table-of-contents/firmware.md)
+* [Software](table-of-contents/software.md)
+* [Hardware](table-of-contents/hardware.md)
 
-## identity
+## Fundamentals
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Logos](fundamentals/logos.md)
+* [Colors](fundamentals/colors.md)
+* [Typography](fundamentals/typography.md)
+* [Imagery](fundamentals/imagery.md)
 
-## Components
+## Firmware
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [Icons](firmware/icons.md)
+* [Buttons](firmware/buttons.md)
+* [Inputs](firmware/inputs.md)
