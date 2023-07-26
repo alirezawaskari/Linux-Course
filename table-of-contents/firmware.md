@@ -27,7 +27,7 @@
 
 
 
-## 102. Virtualization and Linux Installation
+## [102. Virtualization and Linux Installation](../fundamentals/imagery.md)
 
 ### Objectives:
 

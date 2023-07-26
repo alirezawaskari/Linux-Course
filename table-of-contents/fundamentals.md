@@ -1,6 +1,6 @@
 # Fundamentals
 
-## 100. Linux Basics and Philosophy
+## [logos.md](../fundamentals/logos.md "mention")
 
 ### Objectives:
 
