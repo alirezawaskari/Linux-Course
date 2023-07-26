@@ -11,12 +11,12 @@
 
 ## Fundamentals
 
-* [100. Linux Basics and Philosophy](fundamentals/100.-linux-basics-and-philosophy.md)
+* [100. Linux Basics and Philosophy](fundamentals/logos.md)
 
 ## Firmware
 
-* [101. Boot Process and System Configuration](firmware/101.-boot-process-and-system-configuration.md)
-* [102. Virtualization and Linux Installation](firmware/102.-virtualization-and-linux-installation.md)
+* [101. Boot Process and System Configuration](fundamentals/typography.md)
+* [102. Virtualization and Linux Installation](fundamentals/imagery.md)
 
 ## Software
 
