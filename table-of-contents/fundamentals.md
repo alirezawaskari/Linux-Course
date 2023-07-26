@@ -1,8 +1,6 @@
 # Fundamentals
 
-
-
-## 100. Linux Basics and Philosophy <a href="#https-app.gitbook.com-o-3dovleixsnnqsdc4p6kv-s-0ujcb9uscyjmjtb6tr1v-changes-3-fundamentals-100.-linu" id="https-app.gitbook.com-o-3dovleixsnnqsdc4p6kv-s-0ujcb9uscyjmjtb6tr1v-changes-3-fundamentals-100.-linu"></a>
+## [logos.md](../fundamentals/logos.md "mention")100. Linux Basics and Philosophy
 
 ### Objectives:
 
