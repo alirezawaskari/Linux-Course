@@ -11,7 +11,12 @@
 
 ## Fundamentals
 
-* [100. Linux Basics and Philosophy](fundamentals/logos.md)
+* [100. Linux Basics and Philosophy](fundamentals/100.-linux-basics-and-philosophy/README.md)
+  * [100.1 Linux History](fundamentals/100.-linux-basics-and-philosophy/100.1-linux-history.md)
+  * [100.2 Free Software and Open-Source Software](fundamentals/100.-linux-basics-and-philosophy/100.2-free-software-and-open-source-software.md)
+  * [100.3 Command Line Basics](fundamentals/100.-linux-basics-and-philosophy/100.3-command-line-basics.md)
+  * [100.4 Commands](fundamentals/100.-linux-basics-and-philosophy/100.4-commands.md)
+  * [100.5 Users and Accounts](fundamentals/100.-linux-basics-and-philosophy/100.5-users-and-accounts.md)
 
 ## Firmware
 
